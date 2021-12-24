@@ -44,4 +44,4 @@ You can always Support me by inviting one of my **own Discord Bots**
 > 
 > <kbd>2.</kbd> Replace the Text, which aren't variables
 > 
-> <kbd>3.</kbd> Create a Pull Request on the [GITHUB](https://github.com/Tomato6966/discord-js-lavalink-Music-Bot-erela-js)
+> <kbd>3.</kbd> Create a Pull Request on the [GITHUB](https://github.com/bagusjunio/Eclipse-music)
